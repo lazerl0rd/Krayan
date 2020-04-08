@@ -8,7 +8,7 @@ Krayan is a flat Material Design theme for GTK3, GTK2, and GNOME Shell based on 
 
 GTK+ version 3.20 or later is required
 
-#### GTK2 
+#### GTK2
 
 GTK2 requires at least Murrine Engine version 0.98.1.1 and the Pixbuf Engine.
 
@@ -39,7 +39,7 @@ Search for the engines in your distributions repository or install the engines f
 Arch (available at the [AUR](https://aur.archlinux.org/packages/krayan-gtk-theme-git)):
 
 ```
-yay -S gtk-engine-murrine gtk-engines
+yay -S krayan-gtk-theme-git
 ```
 
 Others:
